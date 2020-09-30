@@ -150,8 +150,8 @@ For bug reports or enhancements, please open an [issue](https://github.com/naimk
 ```bash
 $ git clone https://github.com/naimkowshik/LBFH.git
 $ cd LBFH
-$ chmod +x installer.py
-$ python3 installer.py
+$ chmod +x setup.py
+$ python3 setup.py
 $ python3 LBFH.py
 ```
 
