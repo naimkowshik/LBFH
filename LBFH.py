@@ -973,7 +973,7 @@ def website_information_gathrating():
     elif choice == '19':
         try:
             os.system("reset")
-            os.system("python3 ./tools/admin-san/admin-san.py; bash\"'")
+            os.system("python3 ./tools/admin-san/admin-san.py")
             print(banner())
 
         except Exception:
